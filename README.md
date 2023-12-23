@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dysgallium
 - 👀 I’m interested in learning more about back-end development
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Python3 via boot.dev
 - 💞️ I’m not looking to collaborate on anything right now, but I'd be open to it in the future!
 - 📫 How to reach me - just send me a message on here
 
